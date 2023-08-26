@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/waygo/static/css/main.35e849dc.css",
-    "main.js": "/waygo/static/js/main.0b9b8be6.js",
+    "main.js": "/waygo/static/js/main.b36a8fab.js",
     "static/media/Login_logo.svg": "/waygo/static/media/Login_logo.c4e699a0166dc6b95b068b765052de90.svg",
     "static/media/Logo.svg": "/waygo/static/media/Logo.030f25fcacb3d7146265028f99627bf6.svg",
     "index.html": "/waygo/index.html",
     "main.35e849dc.css.map": "/waygo/static/css/main.35e849dc.css.map",
-    "main.0b9b8be6.js.map": "/waygo/static/js/main.0b9b8be6.js.map"
+    "main.b36a8fab.js.map": "/waygo/static/js/main.b36a8fab.js.map"
   },
   "entrypoints": [
     "static/css/main.35e849dc.css",
-    "static/js/main.0b9b8be6.js"
+    "static/js/main.b36a8fab.js"
   ]
 }
