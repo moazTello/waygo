@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/moaztello.github.io/waygo/static/css/main.35e849dc.css",
+    "main.js": "/moaztello.github.io/waygo/static/js/main.88d5ab8f.js",
+    "static/media/Login_logo.svg": "/moaztello.github.io/waygo/static/media/Login_logo.c4e699a0166dc6b95b068b765052de90.svg",
+    "static/media/Logo.svg": "/moaztello.github.io/waygo/static/media/Logo.030f25fcacb3d7146265028f99627bf6.svg",
+    "index.html": "/moaztello.github.io/waygo/index.html",
+    "main.35e849dc.css.map": "/moaztello.github.io/waygo/static/css/main.35e849dc.css.map",
+    "main.88d5ab8f.js.map": "/moaztello.github.io/waygo/static/js/main.88d5ab8f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.35e849dc.css",
+    "static/js/main.88d5ab8f.js"
+  ]
+}
