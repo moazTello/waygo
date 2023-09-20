@@ -1,15 +1,16 @@
 {
   "files": {
-    "main.css": "/waygo/static/css/main.35e849dc.css",
-    "main.js": "/waygo/static/js/main.b36a8fab.js",
+    "main.css": "/waygo/static/css/main.b5889061.css",
+    "main.js": "/waygo/static/js/main.343a502f.js",
+    "static/media/background.svg": "/waygo/static/media/background.61a4880affc84216dcff.svg",
     "static/media/Login_logo.svg": "/waygo/static/media/Login_logo.c4e699a0166dc6b95b068b765052de90.svg",
     "static/media/Logo.svg": "/waygo/static/media/Logo.030f25fcacb3d7146265028f99627bf6.svg",
     "index.html": "/waygo/index.html",
-    "main.35e849dc.css.map": "/waygo/static/css/main.35e849dc.css.map",
-    "main.b36a8fab.js.map": "/waygo/static/js/main.b36a8fab.js.map"
+    "main.b5889061.css.map": "/waygo/static/css/main.b5889061.css.map",
+    "main.343a502f.js.map": "/waygo/static/js/main.343a502f.js.map"
   },
   "entrypoints": [
-    "static/css/main.35e849dc.css",
-    "static/js/main.b36a8fab.js"
+    "static/css/main.b5889061.css",
+    "static/js/main.343a502f.js"
   ]
 }
